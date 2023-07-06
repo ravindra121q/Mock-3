@@ -1,0 +1,15 @@
+export const GET_DATA_REQUEST = "GET_DATA_REQUEST";
+
+export const GET_DATA_SUCCESS = "GET_DATA_SUCCESS";
+
+export const GET_DATA_FAILURE = "GET_DATA_FAILURE";
+
+export const ADD_TODO_REQUEST = "ADD_TODO_REQUEST";
+
+export const ADD_TODO_SUCCESS = "ADD_TODO_SUCCESS";
+
+export const ADD_TODO_FAILURE = "ADD_TODO_FAILURE";
+
+export const DELETE_TODO='DELETE_TODO'
+
+export const TOGGLE_TODO='TOGGLE_TODO'
